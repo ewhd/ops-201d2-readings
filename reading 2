@@ -1,0 +1,3 @@
+Visual studio is a lightweight but highly extensible and modifiable code editor and debugger. Like other powerful, modern text editors built for coding, it is highly customizable in appearance and interface.
+
+Github is a centralized service to coalate texts managed by the open source version control system called git, which is the actual program that runs on your computer. Git manages (and github stores) projects organized into repositories. A commit is like a snapshot of a repository, and is presumably the basic unit of time by which git manages versions. Forks are copies of a repository, which allow for experimentation, taking the project in a new direction, or trying out a solution or feature to then be submitted back into the project.
